@@ -1,4 +1,4 @@
-name: UiPathBuildDeployRun-Tests
+name: UiPathBuildDeployRun-Test
 on:
   push:
     branches:
